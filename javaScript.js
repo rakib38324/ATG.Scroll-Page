@@ -32,7 +32,7 @@ function applyScroll() {
 		sectionName: 'section-name',
 		// standardScrollElements: 'section',
 		easing: 'easeOutExpo',
-		scrollSpeed: 0,
+		scrollSpeed: 1,
 		offset: 0,
 		scrollbars: true,
 		setHeights: true,
