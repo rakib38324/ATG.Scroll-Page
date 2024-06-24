@@ -1,6 +1,6 @@
-# ATG.Scroll-Page
+# ATG Scroll-Page
 
-This is a scrolling animation website. When you scroll the page it will change background color and content.
+This is a scrolling animation website. When you scroll the page it will change the background color and content.
 
 live link:  https://rakib38324.github.io/ATG.Scroll-Page/
 ## Video:
